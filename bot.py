@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 from rmbsnipeit import Assets, Users
 
 # piu-piu
+# piu-piu 2
 
 # подгружаем конфиг
 # slackbot_settings.py - Slack BOT API Token
